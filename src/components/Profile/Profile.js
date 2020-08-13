@@ -15,7 +15,7 @@ const ProfileWrapper = styled.section`
 `;
 
 const ProfilePic = styled.img`
-  width: 300px;
+  width: 380px;
   height: 380px;
   
   box-shadow: 0 0 0 3px white, 0 3px 8px 3px #ccc;
