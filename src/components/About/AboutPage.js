@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import P from '../Shared/P/P';
-import pic from './office.jpg';
 
 const UsesWrapper = styled.section`
   text-align: left;
