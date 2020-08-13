@@ -5,7 +5,7 @@ title: "Website"
 published: true
 date: "August 2020"
 type: "project"
-url: "http://github.com/ratankaliani/ratankaliani.github.io"
+url: "http://github.com/ratankaliani/v2"
 image: "./ratanbig.png"
 summary: "An experiment into how much of my life I can put into a website"
 tech:
