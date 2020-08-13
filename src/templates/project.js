@@ -5,8 +5,8 @@ import { Link, graphql } from "gatsby";
 
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import Layout from "../components/Layout";
-import ProjectOverview from "../components/projects/ProjectOverview";
-import ProjectDetailInfo from "../components/projects/ProjectDetailInfo";
+import ProjectOverview from "../components/Projects/ProjectOverview";
+import ProjectDetailInfo from "../components/Projects/ProjectDetailInfo";
 import Section from "../components/Shared/Section/Section";
 
 const TopLinks = styled.div`
