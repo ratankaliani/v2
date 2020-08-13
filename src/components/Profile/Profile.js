@@ -15,9 +15,9 @@ const ProfileWrapper = styled.section`
 `;
 
 const ProfilePic = styled.img`
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
+  width: 240px;
+  height: 320px;
+  
   box-shadow: 0 0 0 3px white, 0 3px 8px 3px #ccc;
   margin: 20px 0;
 `;
