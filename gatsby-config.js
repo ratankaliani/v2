@@ -104,7 +104,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `thomas-maximini-com`,
+        name: `ratan-kaliani-com`,
         short_name: `ratankaliani`,
         start_url: `/`,
         background_color: `#663399`,
