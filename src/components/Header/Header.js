@@ -56,7 +56,7 @@ const Header = () => (
         <NavLink to="/about">About</NavLink>
         <NavLink to="/projects">Projects</NavLink>
         <NavLink to="/blog">Blog</NavLink>
-        <NavLink><a href="https://drive.google.com/file/d/1kdX1g-gC8HmUd2z3HQflhSA30UpQ5W0r/view" target="_blank" rel="noreferrer">Resume</a></NavLink>
+        <NavLink><a href="https://drive.google.com/file/d/13XxNcIIHgYN7rsXY7tbE-tL-edTTMylD/" target="_blank" rel="noreferrer">Resume</a></NavLink>
       </nav>
     </Inner>
   </HeaderWrapper>
