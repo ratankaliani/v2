@@ -55,13 +55,13 @@ const Profile = () => (
         Virgil Quantitative Research
       </a>
       <br/>
-      Looking for internship opportunities for Summer 2021!
+      
       
     </P>
     <ProfilePic src={pic} />
     <P>
       I'm ideating, designing & building products that transform people's lives for the better. Currently, I'm
-      deeply fasincated by the impact that startups in the Finanical Technology, Blockchain
+      deeply fasincated by the impact that startups in the Financial Technology, Blockchain
       and Deep Learning spaces are having in transforming our society.
     </P>
     <P>
@@ -72,10 +72,11 @@ const Profile = () => (
     </P>
     <P>
       Based out of Berkeley, CA for the upcoming fall! <br />
-      Feel free to ~vibe~ with any one of my many moods on {' '}
+      Looking for internship opportunities for Summer 2021!
+      {/* Feel free to ~vibe~ with any one of my many moods on {' '}
       <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
       Spotify
-      </a>. <br />
+      </a>. <br /> */}
     </P>
   </ProfileWrapper>
 );
