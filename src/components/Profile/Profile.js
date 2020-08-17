@@ -61,7 +61,7 @@ const Profile = () => (
     <ProfilePic src={pic} />
     <P>
       I'm ideating, designing & building products that transform people's lives for the better. Currently, I'm
-      deeply fasincated by the impact that startups in the Finanical Technology, Blockchain
+      deeply fasincated by the impact that startups in the Financial Technology, Blockchain
       and Deep Learning spaces are having in transforming our society.
     </P>
     <P>
