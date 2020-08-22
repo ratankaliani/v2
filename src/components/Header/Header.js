@@ -50,7 +50,7 @@ const Header = () => (
   <HeaderWrapper>
     <Inner>
       
-      <Logo to="/"><img src="./logo.png"></img></Logo>
+      <Logo to="/"><img src="./logo.png" alt="ratankaliani.com site logo"></img></Logo>
       <nav>
         <NavLink to="/">Home</NavLink>
         <NavLink to="/about">About</NavLink>
