@@ -58,7 +58,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: `https://ratankaliani.github.io/ratanlogo.png`
+          content: `https://ratankaliani.com/ratanlogo.png`
         },
         {
           property: `og:image:width`,
