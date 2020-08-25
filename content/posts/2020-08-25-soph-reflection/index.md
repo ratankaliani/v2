@@ -1,20 +1,24 @@
 ---
 order: 1
-path: '/blog/first-post'
-title: 'First Post'
-subtitle: 'Welcome to the blog!'
+path: '/blog/summer-reflections'
+title: 'Summer Reflections'
+subtitle: 'My take on a remote semester'
 published: true
-date: '20200813'
+date: '20200825'
 type: 'post'
-keywords: 'Monthly, personal'
+keywords: 'Monthly, personal, venture, ratan'
 tags:
-  - first post
-  - hype
+  - tahoe
+  - skiing
+  - venture strategy solutions
+  - berkeley venture
+  - ratan kaliani
 year: 2020
 ---
 
-![beach](pescadero.jpg '@ratan')
-<span style="font-size: 11px;">Photo by Ratan Kaliani at Pescadero Beach, CA</span>
+![homies](homies.JPG '@ratan')
+<span style="font-size: 11px;">Venture Fa19 Class @ Sp20 Retreat</span>
 
-Welcome to the blog! Going to be talking about my experiences and hopefully keep track
-of the crazy world around us - stay tuned for updates.
+Wildfires, COVID and Heat were not how I imagined NorCal when I was thinking about my sophomore year - yet as I sit here in my apartment I realize how despite all the challenges we're facing the potential for opportunity we have. In a time when we're forced directly into recognizing the issues that we have in our society today from a lack of responsiveness to a global pandemic to monumental shifts in culture from a transition to having nearly all communication being online - there is so much ability for growth in our society. 
+
+On a macro scale, the the advent of more agile & lean startups in a period when investor confidence has dried up for unprofitable startups to the establishment of practices to handle a diverse set of workplaces including the home are at the front of my mind in terms of pioneering impacts from this pandemic. Yet, in my daily life I've seen changes as well - from friends to family to work. Every action we take has become more meticulous - with organizing meetings and hangouts, every event has to be scheduled in advance and the spontaneous social interaction has completely evaporated. With work, even though we gain the time we used to take to talk to classes, we lose the power of decompression and instead place more focus on our individual ability to handle stress and time management.
