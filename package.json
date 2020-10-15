@@ -24,7 +24,7 @@
     "gatsby-source-filesystem": "^2.3.34",
     "gatsby-transformer-remark": "^2.8.39",
     "gatsby-transformer-sharp": "^2.5.17",
-    "gatsby-transformer-yaml": "^2.2.16",
+    "gatsby-transformer-yaml": "^2.4.14",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
     "node-sass": "^4.11.0",
