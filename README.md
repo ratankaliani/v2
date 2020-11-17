@@ -3,3 +3,6 @@
 
 
 Personal Website powered by React & Gatsby
+
+# Start-Up
+Start App locally by running "gatsby develop", will open up a server at http://localhost:8000/
