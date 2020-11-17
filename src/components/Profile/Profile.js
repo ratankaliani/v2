@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'gatsby';
 import P from '../Shared/P/P';
-import pic from './ratancampanile.png';
+import pic from './ratantahoe.jpg';
 
 const ProfileWrapper = styled.section`
   text-align: center;
@@ -15,8 +15,8 @@ const ProfileWrapper = styled.section`
 `;
 
 const ProfilePic = styled.img`
-  width: 380px;
-  height: 380px;
+  width: 450px;
+  height: 600px;
   
   box-shadow: 0 0 0 3px white, 0 3px 8px 3px #ccc;
   margin: 20px 0;
