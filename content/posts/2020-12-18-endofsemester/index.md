@@ -27,8 +27,3 @@ Social interaction is underanalyzed. There is no strict definition for who you a
 Now, how does any of the last two paragraphs even tangentially relate to a virtual semester? 
 
 
-
-
-On a macro scale, the advent of more agile & lean startups in a period when investor confidence has dried up for unprofitable startups to the establishment of practices to handle a diverse set of workplaces including the home are at the front of my mind in terms of pioneering impacts from this pandemic. Yet, in my daily life I've seen changes as well - from friends to family to work. Every action we take has become more meticulous - with organizing meetings and hangouts, every event has to be scheduled in advance and the spontaneous social interaction has completely evaporated. With work, even though we gain the time we used to take to talk to classes, we lose the power of decompression and instead place more focus on our individual ability to handle stress and time management.
-
-Looking to the future, those two skills will prove to the most valuable but at the end of the day what really matters is that I'll be able to both learn and have a good time - hopefully the AQI finally goes down so we can finally play sports outside too!
