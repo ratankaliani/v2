@@ -50,9 +50,9 @@ const Profile = () => (
     <P>
       I'm an undergrad @ Berkeley studying EECS.
       <br />
-      Currently: Software Engineer Intern @{' '}
-      <a href="https://www.virgilqr.com/" alt="virgilqr.com">
-        Virgil Quantitative Research
+      Currently: Incoming SWE Intern @{' '}
+      <a href="https://www.coinbase.com/" alt="virgilqr.com">
+        Coinbase
       </a>
       <br/>
       

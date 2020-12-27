@@ -11,17 +11,17 @@ import "../../styles/index.scss";
 const Layout = ({ children }) => (
   <div>
     <Helmet
-      title="Ratan Kaliani: Developer of all things web"
+      title="Ratan Kaliani"
       meta={[
         {
           name: "description",
           content:
-            "Ratan Kaliani is a freelance web developer based in Berlin, Germany"
+            "Ratan Kaliani is a EECS student at Berkeley"
         },
         {
           name: "keywords",
           content:
-            "web development, software engineering, react.js, javascript, node.js"
+            "web development, berkeley, ratan kaliani, javascript, node.js"
         },
         {
           name: "google-site-verification",
