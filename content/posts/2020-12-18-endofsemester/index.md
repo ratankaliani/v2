@@ -32,7 +32,7 @@ I've really been looking forward to diving back into the realms of DeFi ever sin
 
 Sports during the pandemic have been completely different than the traditional era of sports. With increased monitoring of players due to COVID protocols, especially in the NBA, a new light has been shined on what goes on behind the scenes and off-the-court for many players. Without an audience within stadiums, game noises have to replace infamous "OOH's" and booing that tend to dominate rowdy playoff Game 7's. However, I can't deny that seeing the end of the Golden State Era and a transition into a duo-heavy NBA, from the Nets to the Lakers to the Wizards has been exciting, and I'm sure that the playoffs will prove to be even more so.
 
-2020 was a year of change for me, from moving into my first apartment, completing my first internship to living in a pandemic, but if there's anything that I've learned this year, it's that in order to do what YOU want to do, you need to believe that you can do it. With that mindset, I'm ready to see what 2021 has in score! 
+2020 was a year of change for me, from moving into my first apartment, completing my first college internship to living in a pandemic, but if there's anything that I've learned this year, it's that in order to do what YOU want to do, you need to believe that you can do it. With that mindset, I'm ready to see what 2021 has in score! 
 
 
 
