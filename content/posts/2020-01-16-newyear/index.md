@@ -19,7 +19,7 @@ year: 2021
 ---
 
 ![roma](roma.jpg '')
-<span style="font-size: 15px;">Rome from the streets above - from my 2019 visit to Italy</span>
+<span style="font-size: 15px;">Rome from above - from my 2019 visit to Italy</span>
 
 From the window seat of a nearly empty airplane, the United States looks different than I imagine. 
 
@@ -29,8 +29,9 @@ The dearth of civilization is both frightening and awe-inducing. How is so much 
 
 How do we create innovation that is sustainable, innovative and brings society - all of it - forward? The simple answer is that you can't. Though we can strive to achieve each of these things, tradeoffs are necessary for growth - but that doesn't mean we need to sacrifice our morals in exchange for profitability. Social progress and innovation can coexist, but only with a deliberate, key focus on improving the world through the next generation of ideas, and bring every single person forward.
 
-With those ideas in mind, this winter I placed significant focus on understanding and researching the next generation of startups that will empower the underresourced and underpriveleged to level the playing field, from Fintech to Community Incentivization. From established startups like Duolingo & Robinhood, to blockchain companies like Celo and Acala, mission-oriented organizations that aim to bring necessary infrastructure or creating society-transforming trends are the companies to keep an eye out for. By improving society, companies are able to build on top of 
+With those ideas in mind, this winter I placed significant focus on understanding and researching the next generation of startups that will empower the underresourced and underpriveleged to level the playing field, from Fintech to Community Uplifting. From established startups like Duolingo & Robinhood, to blockchain companies like Celo and Acala, mission-oriented organizations that aim to bring necessary infrastructure or creating society-transforming trends are the companies to keep an eye out for. By improving society, companies are able to pair profitability with society's growth, enabling a more interconnected world.
 
+2021 has had a rough start so far - hopefully we can begin to turn that around soon!
 
 
 
