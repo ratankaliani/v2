@@ -71,7 +71,7 @@ const Profile = () => (
       {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a>!
     </P>
     <P>
-      Based out of Berkeley, CA for the upcoming fall! <br />
+      Based out of Berkeley, CA for the upcoming spring! <br />
       Looking for internship opportunities for Summer 2021!
       {/* Feel free to ~vibe~ with any one of my many moods on {' '}
       <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
