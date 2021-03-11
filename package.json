@@ -13,7 +13,7 @@
     "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-nprogress": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.8.0",
-    "gatsby-plugin-sass": "^2.5.0",
+    "gatsby-plugin-sass": "^2.8.0",
     "gatsby-plugin-sharp": "^2.13.2",
     "gatsby-plugin-sitemap": "^2.10.0",
     "gatsby-plugin-styled-components": "^3.10.0",
