@@ -51,7 +51,7 @@ const Profile = () => (
       I'm an undergrad @ Berkeley studying EECS.
       <br />
       Currently: Incoming SWE Intern @{' '}
-      <a href="https://www.coinbase.com/" alt="virgilqr.com">
+      <a href="https://www.coinbase.com/" alt="coinbase.com">
         Coinbase
       </a>
       <br/>
@@ -72,7 +72,7 @@ const Profile = () => (
     </P>
     <P>
       Based out of Berkeley, CA for the upcoming spring! <br />
-      Looking for internship opportunities for Summer 2021!
+      Looking for internship opportunities for Fall 2021/Spring 2022!
       {/* Feel free to ~vibe~ with any one of my many moods on {' '}
       <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
       Spotify
