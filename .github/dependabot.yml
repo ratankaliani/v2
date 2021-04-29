@@ -1,0 +1,97 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+  open-pull-requests-limit: 10
+  target-branch: predeploy
+  ignore:
+  - dependency-name: gatsby-plugin-sitemap
+    versions:
+    - 3.2.0
+    - 3.3.0
+  - dependency-name: gatsby-transformer-yaml
+    versions:
+    - 2.10.0
+    - 3.2.0
+    - 3.3.0
+  - dependency-name: gatsby-link
+    versions:
+    - 2.10.0
+    - 3.3.0
+  - dependency-name: gatsby-transformer-remark
+    versions:
+    - 2.16.0
+    - 4.0.0
+  - dependency-name: gatsby-plugin-google-analytics
+    versions:
+    - 2.11.0
+    - 3.2.0
+    - 3.3.0
+  - dependency-name: gatsby-image
+    versions:
+    - 3.0.0
+    - 3.1.0
+    - 3.2.0
+    - 3.3.0
+  - dependency-name: ssri
+    versions:
+    - 6.0.2
+  - dependency-name: date-fns
+    versions:
+    - 2.19.0
+    - 2.20.0
+    - 2.20.1
+    - 2.20.2
+    - 2.20.3
+    - 2.21.0
+  - dependency-name: gatsby-remark-images
+    versions:
+    - 3.11.0
+    - 5.0.0
+  - dependency-name: gatsby-remark-copy-linked-files
+    versions:
+    - 2.10.0
+    - 3.2.0
+    - 4.0.0
+  - dependency-name: gatsby-plugin-react-helmet
+    versions:
+    - 3.10.0
+    - 4.2.0
+    - 4.3.0
+  - dependency-name: gatsby
+    versions:
+    - 2.32.11
+    - 2.32.12
+  - dependency-name: gatsby-source-filesystem
+    versions:
+    - 2.10.0
+    - 2.11.0
+    - 3.2.0
+  - dependency-name: gatsby-remark-prismjs
+    versions:
+    - 3.12.0
+    - 4.2.0
+  - dependency-name: styled-components
+    versions:
+    - 5.2.2
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+  - dependency-name: prism-themes
+    versions:
+    - 1.6.0
+  - dependency-name: gatsby-plugin-nprogress
+    versions:
+    - 2.9.0
+  - dependency-name: gatsby-plugin-manifest
+    versions:
+    - 2.11.0
+  - dependency-name: gatsby-remark-custom-blocks
+    versions:
+    - 2.9.0
+  - dependency-name: react-icons
+    versions:
+    - 4.1.0
