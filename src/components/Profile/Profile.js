@@ -52,7 +52,7 @@ const Profile = () => (
       Currently: SWE Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
         Coinbase
-      </a>, EECS @ Berkeley
+      </a>& EECS @ Berkeley
       <br/>
       
       
