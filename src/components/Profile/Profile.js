@@ -59,7 +59,10 @@ const Profile = () => (
     </P>
     <ProfilePic src={pic} />
     <P>
-      I'm ideating, designing & building products that transform people's lives for the better. Currently, I'm
+      I'm ideating, designing & building products that transform people's lives for the better!
+    </P> 
+    <P> 
+      Currently, I'm
       deeply fasincated by the impact that startups in fintech, blockchain
       and deep learning spaces are having in transforming society.
     </P>
