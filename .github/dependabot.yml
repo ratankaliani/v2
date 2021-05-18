@@ -30,12 +30,6 @@ updates:
     - 2.11.0
     - 3.2.0
     - 3.3.0
-  - dependency-name: gatsby-image
-    versions:
-    - 3.0.0
-    - 3.1.0
-    - 3.2.0
-    - 3.3.0
   - dependency-name: ssri
     versions:
     - 6.0.2
