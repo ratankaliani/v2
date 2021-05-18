@@ -12,7 +12,7 @@ tags:
   - skiing
   - venture strategy solutions
   - berkeley venture
-  - ratan kaliani
+  - Ratan Kaliani
 year: 2020
 ---
 

@@ -11,7 +11,7 @@ tags:
   - virtual learning
   - uc berkeley
   - fall 2020
-  - ratan kaliani
+  - Ratan Kaliani
 year: 2020
 ---
 

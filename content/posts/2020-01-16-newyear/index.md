@@ -11,7 +11,7 @@ tags:
   - startups
   - uc berkeley
   - fall 2020
-  - ratan kaliani
+  - Ratan Kaliani
   - defi
   - blockchain
   - decentralized finance

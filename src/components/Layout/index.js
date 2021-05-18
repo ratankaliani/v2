@@ -16,12 +16,12 @@ const Layout = ({ children }) => (
         {
           name: "description",
           content:
-            "Ratan Kaliani is a EECS student at Berkeley"
+            "Ratan Kaliani is a junior at Berkeley studying EECS"
         },
         {
           name: "keywords",
           content:
-            "web development, berkeley, ratan kaliani, javascript, node.js"
+            "web development, berkeley, Ratan Kaliani, javascript, node.js"
         },
         {
           name: "google-site-verification",

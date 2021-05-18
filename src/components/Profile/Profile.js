@@ -45,39 +45,41 @@ const Name = styled.h2`
 
 const Profile = () => (
   <ProfileWrapper>
-    <h3>hi, i'm ratan!</h3>
+    <h3>Hi, I'm Ratan!</h3>
 
     <P>
-      i'm an undergrad @ berkeley studying eecs
       <br />
-      currently: swe intern @{' '}
+      Currently: SWE Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
-        coinbase
-      </a>
+        Coinbase
+      </a>, EECS @ Berkeley
       <br/>
       
       
     </P>
     <ProfilePic src={pic} />
     <P>
-      i'm ideating, designing & building products that transform people's lives for the better. currently, i'm
+      I'm ideating, designing & building products that transform people's lives for the better. Currently, I'm
       deeply fasincated by the impact that startups in fintech, blockchain
       and deep learning spaces are having in transforming society.
     </P>
     <P>
-      i post every couple decades on my <Link to="/blog">blog</Link>, drop freezing cold
-      takes on startups, crypto & society on my <a href="http://twitter.com/ratankaliani">twitter</a>,
-      and explore my 3am ideas on my <a href="http://github.com/ratankaliani">github</a>. feel contact me via
-      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a> if you want to chat!
+      I post every couple decades on my <Link to="/blog">blog</Link>, drop freezing cold
+      takes on startups, crypto & society on my <a href="http://twitter.com/ratankaliani">Twitter</a>,
+      and explore my 3AM ideas on my <a href="http://github.com/ratankaliani">Github</a>. 
     </P>
     <P>
-      currently between washington d.c. and berkeley, ca <br />
-      looking for exciting and interesting new opportunities at any time!
+    Looking for exciting and interesting new opportunities to go beyond my comfort zone!<br />
+      
       {/* Feel free to ~vibe~ with any one of my many moods on {' '}
       <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
       Spotify
       </a>. <br /> */}
     </P>
+    <P>
+    Feel contact me via
+      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a> if you want to chat.
+      </P>
   </ProfileWrapper>
 );
 
