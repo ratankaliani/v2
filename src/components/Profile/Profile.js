@@ -45,14 +45,14 @@ const Name = styled.h2`
 
 const Profile = () => (
   <ProfileWrapper>
-    <h3>Hi, I'm Ratan!</h3>
+    <h3>hi, i'm ratan!</h3>
 
     <P>
-      I'm an undergrad @ Berkeley studying EECS.
+      i'm an undergrad @ berkeley studying eecs
       <br />
-      Currently: Incoming SWE Intern @{' '}
+      currently: swe intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
-        Coinbase
+        coinbase
       </a>
       <br/>
       
@@ -60,19 +60,19 @@ const Profile = () => (
     </P>
     <ProfilePic src={pic} />
     <P>
-      I'm ideating, designing & building products that transform people's lives for the better. Currently, I'm
-      deeply fasincated by the impact that startups in the Financial Technology, Blockchain
-      and Deep Learning spaces are having in transforming our society.
+      i'm ideating, designing & building products that transform people's lives for the better. currently, i'm
+      deeply fasincated by the impact that startups in fintech, blockchain
+      and deep learning spaces are having in transforming society.
     </P>
     <P>
-      You can learn more about me on my <Link to="/blog">blog</Link>, hear my
-      takes on startups, crypto & society on <a href="http://twitter.com/ratankaliani">Twitter</a>,
-      look at my ideas on <a href="http://github.com/ratankaliani">Github</a>, or contact me via
-      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a>!
+      i post every couple decades on my <Link to="/blog">blog</Link>, drop freezing cold
+      takes on startups, crypto & society on my <a href="http://twitter.com/ratankaliani">twitter</a>,
+      and explore my 3am ideas on my <a href="http://github.com/ratankaliani">github</a>. feel contact me via
+      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a> if you want to chat!
     </P>
     <P>
-      Based out of Berkeley, CA for the upcoming spring! <br />
-      Looking for internship opportunities for Fall 2021/Spring 2022!
+      currently between washington d.c. and berkeley, ca <br />
+      looking for exciting and interesting new opportunities at any time!
       {/* Feel free to ~vibe~ with any one of my many moods on {' '}
       <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
       Spotify
