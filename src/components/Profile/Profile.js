@@ -48,35 +48,42 @@ const Profile = () => (
     <h3>Hi, I'm Ratan!</h3>
 
     <P>
-      I'm an undergrad @ Berkeley studying EECS.
+      
       <br />
       Currently: Incoming SWE Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
         Coinbase
-      </a>
+      </a>,
+      EECS @ Berkeley
       <br/>
       
       
     </P>
     <ProfilePic src={pic} />
     <P>
-      I'm ideating, designing & building products that transform people's lives for the better. Currently, I'm
-      deeply fasincated by the impact that startups in the Financial Technology, Blockchain
-      and Deep Learning spaces are having in transforming our society.
+      I'm ideating, designing & building products that transform people's lives for the better. 
     </P>
     <P>
-      You can learn more about me on my <Link to="/blog">blog</Link>, hear my
+      Currently, I'm
+      deeply fasincated by the impact that startups in Fintech, Blockchain
+      and Deep Learning spaces are having in transforming society and uplifting underserved communities.
+    </P>
+    <P>
+      I post every couple decades on my <Link to="/blog">blog</Link>, drop
       takes on startups, crypto & society on <a href="http://twitter.com/ratankaliani">Twitter</a>,
-      look at my ideas on <a href="http://github.com/ratankaliani">Github</a>, or contact me via
-      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a>!
+      explore my 3AM ideas on <a href="http://github.com/ratankaliani">Github</a>. 
     </P>
-    <P>
-      Based out of Berkeley, CA for the upcoming spring! <br />
-      Looking for internship opportunities for Fall 2021/Spring 2022!
+    {/* <P>
+      Based out of Berkeley, CA & Washington D.C. <br />
+      
       {/* Feel free to ~vibe~ with any one of my many moods on {' '}
       <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
       Spotify
       </a>. <br /> */}
+    {/* </P> */}
+    <P>
+    Feel free to contact me via
+      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a> if you want to chat!
     </P>
   </ProfileWrapper>
 );
