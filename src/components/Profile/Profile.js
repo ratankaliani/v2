@@ -70,7 +70,7 @@ const Profile = () => (
     </P>
     <P>
       I post every couple decades on my <Link to="/blog">blog</Link>, drop
-      takes on startups, crypto & society on <a href="http://twitter.com/ratankaliani">Twitter</a>,
+      takes on startups, crypto & society on <a href="http://twitter.com/ratankaliani">Twitter</a>, and
       explore my 3AM ideas on <a href="http://github.com/ratankaliani">Github</a>. 
     </P>
     {/* <P>
