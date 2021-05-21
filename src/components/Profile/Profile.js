@@ -50,9 +50,9 @@ const Profile = () => (
     <P>
       
       <br />
-      Currently: Incoming SWE Intern @{' '}
+      Currently: SWE Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
-        Coinbase
+        Coinbase (Crypto)
       </a>,
       EECS @ Berkeley
       <br/>
