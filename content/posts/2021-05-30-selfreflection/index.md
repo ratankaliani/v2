@@ -11,8 +11,8 @@ tags:
 year: 2021
 ---
 
-![roma](roma.jpg '')
-<span style="font-size: 15px;">Rome from above - from my 2019 visit to Italy</span>
+![roma](sunset.jpg '')
+<span style="font-size: 15px;">Pacific Ocean Sunset from the Marin Headlands</span>
 
 At first glance, the question seems straightforward. At least 2 pages, less than 1200 words - seems simple enough.
 
@@ -45,7 +45,7 @@ I'm not just an engineer. The reality is that no one is. Giving myself a single 
 
 The incessant oscillating hum of the Brood X cicadas emerging from the ground after 17 years and swarming from tree to tree in my backyard is overpowering at times, but it helps me understand that the world moves on - whether or not you're ready for it. From past to present to future, the pace at which the world around you moves can leave you behind if you're not ready . The most important things for me to learn 17 years ago were my ABCs and the best way to tumble down stairs. Today, if you ask me the same question, that answer seems so much more difficult - where do I even begin? In what context? From DeFi to basketball to food to music there are so many things I want to learn about and explore and finding that optimal balance is the hardest challenge to solve. How do I be all the things that I want to be while still leaving time for me to discover for myself?
 
-I can't. Sacrifice probably isn't the best word, but nothing else even comes close to explaining how I have to leave things I'm passionate about behind to explore things I'm even more passionate about. The patchwork of decisions that have led me to where I am today is something I guarantee I wouldn't be able to repeat, and given the chance to go back 17 years and start over, I wouldn't.
+I can't. Sacrifice probably isn't the best word, but nothing else even comes close to explaining how I have to leave things I'm passionate about behind to explore things that I care more deeply about. The patchwork of decisions that have led me to where I am today is something I guarantee I wouldn't be able to repeat, and given the chance to go back 17 years and start over, I wouldn't.
 
 I'm sure if I read this 17 years from now with the perspective and context that I have then all these thoughts will seem trivial. As to where I will be 17 years from today? Your guess is probably as good as mine.
 
