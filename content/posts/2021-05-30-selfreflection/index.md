@@ -6,8 +6,15 @@ subtitle: 'The struggle of finding yourself in a fast-moving, driven and passion
 published: true
 date: '20210530'
 type: 'post'
-keywords: ''
+keywords: 'Ratan Kaliani, Ratan Kaliani Blog Reflection, Ratan Kaliani Blog, Ratan Kaliani Website, Blockchain at Berkeley, Ratan, Kaliani'
 tags:
+  - ratan kaliani
+  - ratan kaliani blog
+  - ratan kaliani defi
+  - ratan kaliani engineer
+  - engineer blog
+  - ratan reflection
+  - decentralized finance
 year: 2021
 ---
 
