@@ -72,9 +72,9 @@ const Profile = () => (
       and the creation of decentralized economies that will disrupt existing industries and form entirely new ones.
     </P>
     <P>
-      Outside of crypto, I'm fascinated by startups in areas of innovation that will transform society & current institutions
-      in the coming decades from space tech to deep learning to quantum computing. With the pace of tech growth & globalization continuing, it's clear that
-      the next few years will prove to be both pivotal & transformative to the world around us.
+      Outside of crypto, I'm fascinated by startups in areas of innovation  from space tech to deep learning to quantum computing
+      that will transform society & current institutions in the coming decades. With the pace of tech growth & globalization continuing, it's clear that
+      the next few years will prove to be both pivotal in shaping the world around us.
     </P>
     {/* <P>
       Based out of Berkeley, CA & Washington D.C. <br />
