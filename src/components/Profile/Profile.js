@@ -45,33 +45,36 @@ const Name = styled.h2`
 
 const Profile = () => (
   <ProfileWrapper>
-    <h3>Hi, I'm Ratan!</h3>
+    <h3>Ratan Kaliani</h3>
 
     <P>
       
       <br />
-      Currently: SWE Intern @{' '}
+      Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
-        Coinbase (Crypto)
-      </a>,
-      EECS @ Berkeley
+        Coinbase 
+      </a>
+      {' '}(Crypto),
+      President @ {' '}
+      <a href="https://blockchain.berkeley.edu" alt="https://blockchain.berkeley.edu">
+        Blockchain at Berkeley
+      </a>
       <br/>
       
       
     </P>
     <ProfilePic src={pic} />
     <P>
-      I'm ideating, designing & building products that transform people's lives for the better. 
-    </P>
-    <P>
       Currently, I'm
-      deeply fasincated by the impact that startups in Fintech, Blockchain
-      and Deep Learning spaces are having in transforming society and uplifting underserved communities.
+      deeply interested in the crypto space and its explosive adoption & innovation. Within DeFi, we're
+      seeing the rise and adoption of platforms that will form the future of financial tools & infrastructure
+      that will help empower the open financial system. Equally impactful will be the evolution of governance & DAO's, 
+      and the creation of decentralized economies that will disrupt existing industries and form entirely new ones.
     </P>
     <P>
-      I post every couple decades on my <Link to="/blog">blog</Link>, drop
-      takes on startups, crypto & society on <a href="http://twitter.com/ratankaliani">Twitter</a>, and
-      explore my 3AM ideas on <a href="http://github.com/ratankaliani">Github</a>. 
+      Outside of crypto, I'm fascinated by startups in areas of innovation that will transform society & current institutions
+      in the coming decades from space tech to deep learning to quantum computing. With the pace of tech growth & globalization continuing, it's clear that
+      the next few years will prove to be both pivotal & transformative to the world around us.
     </P>
     {/* <P>
       Based out of Berkeley, CA & Washington D.C. <br />
@@ -82,8 +85,8 @@ const Profile = () => (
       </a>. <br /> */}
     {/* </P> */}
     <P>
-    Feel free to contact me via
-      {' '}<a href="mailto:ratan@berkeley.edu">ratan (at) berkeley (dot) edu</a> if you want to chat!
+    If you'd like to get in touch, I'm always available
+      {' '}<a href="mailto:ratan@berkeley.edu">here</a>.
     </P>
   </ProfileWrapper>
 );
