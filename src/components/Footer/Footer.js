@@ -40,13 +40,7 @@ const Footer = () => (
       >
         <FaGithub size={22} />
       </a>
-      <a
-        href="http://twitter.com/ratankaliani"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FaTwitter size={22} />
-      </a>
+      
       <a
         href="mailto:ratan@berkeley.edu"
         target="_blank"
@@ -55,19 +49,26 @@ const Footer = () => (
         <FaEnvelope size={22} />
       </a>
       <a
+        href="http://twitter.com/ratankaliani"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaTwitter size={22} />
+      </a>
+      <a
         href="https://www.linkedin.com/in/ratankaliani/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaLinkedin size={22} />
       </a>
-      <a
+      {/* <a
         href="http://instagram.com/ratankaliani"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaInstagram size={22} />
-      </a>
+      </a> */}
     </SocialMedia>
   </FooterWrapper>
 );

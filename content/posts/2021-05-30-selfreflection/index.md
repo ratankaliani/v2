@@ -57,5 +57,3 @@ I can't. Sacrifice probably isn't the best word, but nothing else even comes clo
 I'm sure if I read this 17 years from now with the perspective and context that I have then all these thoughts will seem trivial. As to where I will be 17 years from today? Your guess is probably as good as mine.
 
 What I can control is where I want to be, and the first step in that is recognizing who I am. No single word can encapsulate that, but there's no way I'm about to let a label I didn't create describe who I am. The best way to grow is by being me, and I'll live by that forever.
-
-Word Count: 1200

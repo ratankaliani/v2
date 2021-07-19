@@ -53,10 +53,10 @@ const Header = () => (
       
       <Logo to="/"><img src='https://ratankaliani.com/logo.png' alt="logo"></img></Logo>
       <nav>
-        <NavLink to="/">Home</NavLink>
+        <NavLink to="/">home</NavLink>
         {/* <NavLink to="/about">About</NavLink> */}
-        <NavLink to="/projects">Projects</NavLink>
-        <NavLink to="/blog">Blog</NavLink>
+        <NavLink to="/projects">projects</NavLink>
+        <NavLink to="/blog">blog</NavLink>
         <NavLink><a href="https://drive.google.com/file/d/1JKvAk40H614L-QddBGQKjYzMfPV2Btvg/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a></NavLink>
       </nav>
     </Inner>

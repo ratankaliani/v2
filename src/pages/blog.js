@@ -38,7 +38,7 @@ const BlogPage = ({ data }) => {
           padding: '40px 10px 10px 10px',
         }}
       >
-        <Headline>My Blog</Headline>
+        <Headline>Thoughts</Headline>
         <BlogOverview>
           <ul>
             {postsOrdered.reverse().map(post => (
