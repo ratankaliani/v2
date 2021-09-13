@@ -74,7 +74,7 @@ const Profile = () => (
     <P>
       Outside of crypto, I'm fascinated by startups in areas of innovation  from space tech to deep learning to quantum computing
       that will transform society & current institutions in the coming decades. With the pace of tech growth & globalization continuing, it's clear that
-      the next few years will prove to be both pivotal in shaping the world around us.
+      the next few years will prove to be pivotal in shaping the world around us.
     </P>
     {/* <P>
       Based out of Berkeley, CA & Washington D.C. <br />
