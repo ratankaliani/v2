@@ -56,7 +56,8 @@ const Profile = () => (
         Blockchain at Berkeley
       </a>
       <br/>
-      Prev: Intern @{' '}
+      <br/>
+      Previously: Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
         Coinbase 
       </a>, Director @{' '}<a href="https://www.coinbase.com/" alt="coinbase.com">
