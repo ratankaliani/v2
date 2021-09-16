@@ -50,16 +50,19 @@ const Profile = () => (
     <P>
       
       <br />
-      Intern @{' '}
-      <a href="https://www.coinbase.com/" alt="coinbase.com">
-        Coinbase 
-      </a>
-      {' '}(Crypto),
+      
       President @ {' '}
       <a href="https://blockchain.berkeley.edu" alt="https://blockchain.berkeley.edu">
         Blockchain at Berkeley
       </a>
       <br/>
+      Prev: Intern @{' '}
+      <a href="https://www.coinbase.com/" alt="coinbase.com">
+        Coinbase 
+      </a>, Director @{' '}<a href="https://www.coinbase.com/" alt="coinbase.com">
+        Berkeley Blockchain Xcelerator
+      </a>
+      
       
       
     </P>
