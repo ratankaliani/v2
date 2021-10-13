@@ -59,7 +59,7 @@ const Profile = () => (
       Prev: Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
         Coinbase 
-      </a>, Director @{' '}<a href="https://www.coinbase.com/" alt="coinbase.com">
+      </a>, Director @{' '}<a href="https://www.xcelerator.berkeley.edu/" alt="xcelerator.berkeley.edu">
         Berkeley Blockchain Xcelerator
       </a>
       
