@@ -68,10 +68,6 @@ const Profile = () => (
     </P>
     <ProfilePic src={pic} />
     {/* </P> */}
-    <P>
-    If you'd like to get in touch, I'm available
-      {' '}<a href="mailto:ratan@berkeley.edu">here</a>.
-    </P>
   </ProfileWrapper>
 );
 
