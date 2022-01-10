@@ -67,28 +67,9 @@ const Profile = () => (
       
     </P>
     <ProfilePic src={pic} />
-    <P>
-      Currently, I'm
-      deeply interested in the crypto space and its explosive adoption & innovation. Within DeFi, we're
-      seeing the rise and adoption of platforms that will form the future of financial tools & infrastructure
-      that will help empower the open financial system. Equally impactful will be the evolution of governance & DAO's, 
-      and the creation of decentralized economies that will disrupt existing industries and form entirely new ones.
-    </P>
-    <P>
-      Outside of crypto, I'm fascinated by startups in areas of innovation  from space tech to deep learning to quantum computing
-      that will transform society & current institutions in the coming decades. With the pace of tech growth & globalization continuing, it's clear that
-      the next few years will prove to be pivotal in shaping the world around us.
-    </P>
-    {/* <P>
-      Based out of Berkeley, CA & Washington D.C. <br />
-      
-      {/* Feel free to ~vibe~ with any one of my many moods on {' '}
-      <a href="https://open.spotify.com/user/22y5m2ldfpn27ledxb7vnryca">
-      Spotify
-      </a>. <br /> */}
     {/* </P> */}
     <P>
-    If you'd like to get in touch, I'm always available
+    If you'd like to get in touch, I'm available
       {' '}<a href="mailto:ratan@berkeley.edu">here</a>.
     </P>
   </ProfileWrapper>
