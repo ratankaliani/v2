@@ -56,7 +56,7 @@ const Profile = () => (
         Blockchain at Berkeley
       </a>
       <br/>
-      Prev: Intern @{' '}
+      Prev: Engineer @{' '}<a href="https://polychain.capital/" alt="polychain.capital"></a> Polychain, Intern @{' '}
       <a href="https://www.coinbase.com/" alt="coinbase.com">
         Coinbase 
       </a>, Director @{' '}<a href="https://www.xcelerator.berkeley.edu/" alt="xcelerator.berkeley.edu">
